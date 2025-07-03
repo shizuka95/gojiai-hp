@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gojiai-hp/static/css/main.519b58a5.css",
+    "main.js": "/gojiai-hp/static/js/main.9e1a36b9.js",
+    "static/js/453.d1316326.chunk.js": "/gojiai-hp/static/js/453.d1316326.chunk.js",
+    "index.html": "/gojiai-hp/index.html",
+    "main.519b58a5.css.map": "/gojiai-hp/static/css/main.519b58a5.css.map",
+    "main.9e1a36b9.js.map": "/gojiai-hp/static/js/main.9e1a36b9.js.map",
+    "453.d1316326.chunk.js.map": "/gojiai-hp/static/js/453.d1316326.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.519b58a5.css",
+    "static/js/main.9e1a36b9.js"
+  ]
+}
